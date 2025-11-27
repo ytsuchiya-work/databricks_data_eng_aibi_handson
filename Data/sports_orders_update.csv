@@ -1,0 +1,3 @@
+order_id,customer_name,region,order_date,product,category,quantity,price
+101,湘南サーフィン,関東,2025-06-05,バスケットシューズ,シューズ,1,9800
+102,大阪アスリート館,関西,2025-06-05,スポーツバッグ,アクセサリー,1,7200
